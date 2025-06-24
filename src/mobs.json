@@ -1,0 +1,30 @@
+{
+    "Anemo Slime": {
+        "dmg": ["Anemo"],
+        "type": "Common Enemies",
+        "family": "Elemental Lifeforms",
+        "group": "Slimes",
+        "patch": 1.0
+    },
+    "Cryo Slime": {
+        "dmg": ["Cryo"],
+        "type": "Common Enemies",
+        "family": "Elemental Lifeforms",
+        "group": "Slimes",
+        "patch": 1.0
+    },
+    "Eremite Axe Vanguard": {
+        "dmg": ["Physical"],
+        "type": "Common Enemies",
+        "family": "Other Human Factions",
+        "group": "The Eremites",
+        "patch": 3.0
+    },
+    "Andrius": {
+        "dmg": ["Anemo, Cryo"],
+        "type": "Weekly Bosses",
+        "family": "Enemies of Note",
+        "group": "None",
+        "patch": 1.0
+    }
+}
